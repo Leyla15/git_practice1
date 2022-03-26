@@ -4,4 +4,10 @@ public class HelloWorld {
 
     // doing awesome work1!
 
+    // doing awesome work 3 !
+
+    // Awesome work 3 is done and ready to be commited
+
+    // and ready to be pushed to remote repository
+
 }
